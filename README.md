@@ -1,1 +1,1 @@
-## welocome to the the TinDog frontend webpage
+## welcome to the the TinDog frontend webpage
